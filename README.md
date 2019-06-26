@@ -1,1 +1,1 @@
-# Azuma
+# azuma-discord-bot
