@@ -89,5 +89,4 @@ bot.on('message', message=>{
     }
 })
 
-
-bot.login(token);
+client.login(process.env.BOT_TOKEN);
